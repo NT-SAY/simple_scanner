@@ -1,0 +1,10 @@
+# .gitignore
+target/
+**/*.rs.bk
+*.log
+*.exe
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+Cargo.lock
